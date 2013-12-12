@@ -1,0 +1,9 @@
+#FooterLayer {height:17px;line-height:17px;background:#4572A8;color:#FFFFFF;padding:3px 5px 0px 5px;font-family:verdana;font-size:9px;text-align:right;}
+
+.menu-title {background:#D6E3F2;border-style:solid;border-color:#99bbe8;border-width:1px;margin:-2px -2px 0;color:#15428b;font-weight:bold; font-size:11px; font-family:AppleGothic, "malgun gothic", dotum, tahoma; display:block; padding:5px 10px 5px 10px;}
+.whois {font-family:tahoma; font-size:11px; color:black; margin:4px;}
+.system {font-family:AppleGothic, "malgun gothic", dotum, tahoma; font-size:12px; color:green; margin:4px;}
+.error {font-family:AppleGothic, "malgun gothic", dotum, tahoma; font-size:12px; color:red; margin:4px;}
+.server {font-family:AppleGothic, "malgun gothic", dotum, tahoma; font-size:12px; color:maroon; margin:4px;}
+.talk {font-family:AppleGothic, "malgun gothic", dotum, tahoma; font-size:12px; color:black; margin:4px;}
+.channel {text-decoration:underline; color:blue; cursor:pointer;}
